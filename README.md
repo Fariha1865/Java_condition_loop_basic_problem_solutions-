@@ -18,4 +18,4 @@
 
 ## prerequisites
 - **You must have jdk, Intellij IDEA and gradle installed in your system**
-- JDK_HOME and GRADLE_HOME path variables should be properly configured in local pc's Environment Variables 
+- **JDK_HOME and GRADLE_HOME path variables should be properly configured in local pc's Environment Variables**
