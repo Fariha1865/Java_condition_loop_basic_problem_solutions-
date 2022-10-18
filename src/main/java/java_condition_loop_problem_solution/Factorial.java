@@ -4,7 +4,7 @@ package java_condition_loop_problem_solution;
 
 import java.util.Scanner;
 
-public class Problem_6 {
+public class Factorial {
     public static void main(String[] args) {
         int n = 5;
         Scanner input = new Scanner(System.in);

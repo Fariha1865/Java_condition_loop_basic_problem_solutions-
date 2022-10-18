@@ -6,7 +6,7 @@ package java_condition_loop_problem_solution;
 
 import java.util.Scanner;
 
-public class Problem_10 {
+public class Smallest_largest {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter number to find largest/smallest or \"q\" to quit: ");

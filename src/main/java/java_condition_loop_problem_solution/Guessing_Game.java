@@ -25,7 +25,7 @@ package java_condition_loop_problem_solution;
 
 import java.util.Scanner;
 
-public class Problem_2 {
+public class Guessing_Game {
     public static void main(String[] args) {
         System.out.println("********************Welcome to the Guessing Game! ********************");
         System.out.println(" ********************A number is already generated. ********************");

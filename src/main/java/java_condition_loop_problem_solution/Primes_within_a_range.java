@@ -3,7 +3,7 @@ package java_condition_loop_problem_solution;
 
 import java.util.Scanner;
 
-public class Problem_7 {
+public class Primes_within_a_range {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

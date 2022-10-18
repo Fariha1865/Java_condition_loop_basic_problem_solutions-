@@ -1,7 +1,7 @@
 //Sum of numbers which are only divisible by 5, from 1 to 100
 package java_condition_loop_problem_solution;
 
-public class Problem_5 {
+public class Sum_Numbers_Divisible_by_5 {
     public static void main(String[] args) {
         int sum = 0;
         try {
