@@ -8,7 +8,7 @@ package java_condition_loop_problem_solution;
 
 import java.util.Scanner;
 
-public class Problem_8 {
+public class Points_in_guessing_game {
     public static void main(String[] args) {
         int marks = 0;
         Scanner input = new Scanner(System.in);

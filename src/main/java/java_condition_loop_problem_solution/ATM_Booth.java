@@ -3,7 +3,7 @@ package java_condition_loop_problem_solution;
 
 import java.util.Scanner;
 
-public class Problem_4 {
+public class ATM_Booth {
     public static void main(String[] args) {
         int balance = 10000;
         while (true) {

@@ -5,7 +5,7 @@ package java_condition_loop_problem_solution;
 
 import java.util.Scanner;
 
-public class Problem_1 {
+public class Small_or_capital {
     public static void main(String arg[]) {
 
         System.out.println("Please Enter any letter from A-Z or a-z: ");

@@ -4,7 +4,7 @@ package java_condition_loop_problem_solution;
 
 import java.util.Scanner;
 
-public class Problem_9 {
+public class Sum_till_q_entered {
     public static void main(String[] args) {
         int sum = 0;
         Scanner input = new Scanner(System.in);

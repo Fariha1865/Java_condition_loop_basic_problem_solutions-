@@ -10,7 +10,7 @@ package java_condition_loop_problem_solution;
 
 import java.util.Scanner;
 
-public class Problem_3 {
+public class Compare_Numbers_upto_two_decimal_points {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter First Number: ");
