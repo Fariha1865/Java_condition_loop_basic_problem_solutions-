@@ -13,7 +13,10 @@
 
 - Download the zip file and extract it
 - Open the project file in Intellij IDEA 
-- Run the .java classes one by one from the package
+- Run the .java classes one by one from the 3 packages
+                - java_condition_loop_problem_solution
+                - array_function_problem_solution
+                - string_manipulation_problem_solution
  
 
 ## prerequisites
